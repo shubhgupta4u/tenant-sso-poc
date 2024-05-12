@@ -1,0 +1,11 @@
+E:\Repository\Github\tenant-sso-poc.models\bin\Debug\tenant-sso-poc.models.dll
+E:\Repository\Github\tenant-sso-poc.models\bin\Debug\tenant-sso-poc.models.pdb
+E:\Repository\Github\tenant-sso-poc.models\obj\Debug\tenant-sso-poc.models.csproj.AssemblyReference.cache
+E:\Repository\Github\tenant-sso-poc.models\obj\Debug\tenant-sso-poc.models.csproj.CoreCompileInputs.cache
+E:\Repository\Github\tenant-sso-poc.models\obj\Debug\tenant-sso-poc.models.dll
+E:\Repository\Github\tenant-sso-poc.models\obj\Debug\tenant-sso-poc.models.pdb
+E:\Repository\Github\tenant-sso-poc\Libraries\tenant-sso-poc.models\bin\Debug\tenant-sso-poc.models.dll
+E:\Repository\Github\tenant-sso-poc\Libraries\tenant-sso-poc.models\bin\Debug\tenant-sso-poc.models.pdb
+E:\Repository\Github\tenant-sso-poc\Libraries\tenant-sso-poc.models\obj\Debug\tenant-sso-poc.models.csproj.CoreCompileInputs.cache
+E:\Repository\Github\tenant-sso-poc\Libraries\tenant-sso-poc.models\obj\Debug\tenant-sso-poc.models.dll
+E:\Repository\Github\tenant-sso-poc\Libraries\tenant-sso-poc.models\obj\Debug\tenant-sso-poc.models.pdb
