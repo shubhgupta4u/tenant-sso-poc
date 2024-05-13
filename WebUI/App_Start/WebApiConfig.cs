@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web.Http;
+﻿using System.Web.Http;
 
 namespace tenant_sso_poc.WebUI
 {
@@ -16,8 +13,8 @@ namespace tenant_sso_poc.WebUI
 
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",
-                routeTemplate: "api/{controller}/{id}",
-                defaults: new { id = RouteParameter.Optional }
+                routeTemplate: "{tenantalias}/api/{controller}/{id}",
+                defaults: new { tenantalias = "mordor", controller = "DataSeeder", id = RouteParameter.Optional }
             );
         }
     }
